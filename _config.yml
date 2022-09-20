@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm interested in computer vision :)"
   location         : "Sogang Univ. IIPLAB"
-  email            : # "leesy0882@gmail.com"
+  email            : "leesy0882@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
